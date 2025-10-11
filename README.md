@@ -40,6 +40,13 @@ A curated collection of notable robotics breakthroughs around the world
 - Research Publications  
 - Industry Adoption  
 
+## 7. Reinforcement Learning Frameworks
+### Repositories
+1. [genesis_kr](github.com/lupinjia/genesis_lr)
+
+## 8. Sim2Real Transfer
+### Repositories
+1. [rl_sar](github.com/fan-ziqi/rl_sar)
 ---
 
 ## Contribution Guide
